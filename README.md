@@ -4,7 +4,7 @@ Estamos felizes por você estar interessado(a) em integrar nosso time!
 
 Como o número de interessados foi muito grande, vamos aplicar um pequeno teste, bem simples. Com intuito de filtrar os candidatos que só mandaram mensagem por mandar, dos realmente interessados.
 
-## Não se preocupe
+## Não se  preocupe
 
 Não vamos te pedir muito, o teste consiste apenas em fazer uma tela de login. Simples né? Mas você já vai mostrar pra gente que consegue seguir um fluxo real de trabalho. Com uma demanda real, e material de apoio real.
 
